@@ -1,3 +1,3 @@
-name:Kunkka
-occupation:Admiral
-objective:to be admired and remembered for good things
+Name:Kunkka
+Occupation:Admiral
+Objective:to be admired and remembered for good things 
